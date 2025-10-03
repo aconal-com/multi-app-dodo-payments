@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 3. **Setup MySQL database**
 ```bash
-mysql -u root -p < payments-db-structure.sql
+just run the app, it will be done by our app
 ```
 
 4. **Configure environment**
