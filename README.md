@@ -26,7 +26,7 @@ Autonomous payment processing service supporting multiple applications using Dod
 
 1. **Clone and navigate to directory**
 ```bash
-cd backend/payments-service
+clone https://github.com/aniketkarne/multi-app-dodo-payments.git
 ```
 
 2. **Set environment variables**
